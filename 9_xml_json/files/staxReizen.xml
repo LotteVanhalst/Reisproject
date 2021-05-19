@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+
+<Reizen>
+  
+  <reis werelddeel="AMERIKA">
+    
+    <naam>Argentinië</naam>
+    
+    <begindatum>2019-07-21</begindatum>
+    
+    <aantal_dagen>22</aantal_dagen>
+    
+    <kostprijs>3450.49</kostprijs>
+    
+    <taal>Spaans</taal>
+    
+    <munteenheid>Peso</munteenheid>
+    
+    <gemiddelde_temperatuur>15.0</gemiddelde_temperatuur>
+    
+    <zakgeld>300.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="OCEANIE">
+    
+    <naam>Australië</naam>
+    
+    <begindatum>2019-10-10</begindatum>
+    
+    <aantal_dagen>28</aantal_dagen>
+    
+    <kostprijs>5678.99</kostprijs>
+    
+    <taal>Engels</taal>
+    
+    <munteenheid>Australische Dollar</munteenheid>
+    
+    <gemiddelde_temperatuur>22.0</gemiddelde_temperatuur>
+    
+    <zakgeld>650.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AMERIKA">
+    
+    <naam>Bolivië</naam>
+    
+    <begindatum>2019-11-15</begindatum>
+    
+    <aantal_dagen>18</aantal_dagen>
+    
+    <kostprijs>2199.59</kostprijs>
+    
+    <taal>Spaans</taal>
+    
+    <munteenheid>Boliviano </munteenheid>
+    
+    <gemiddelde_temperatuur>16.0</gemiddelde_temperatuur>
+    
+    <zakgeld>200.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AMERIKA">
+    
+    <naam>Canada</naam>
+    
+    <begindatum>2020-06-10</begindatum>
+    
+    <aantal_dagen>25</aantal_dagen>
+    
+    <kostprijs>4367.87</kostprijs>
+    
+    <taal>Engels en Frans</taal>
+    
+    <munteenheid>Canadese Dollar</munteenheid>
+    
+    <gemiddelde_temperatuur>24.0</gemiddelde_temperatuur>
+    
+    <zakgeld>500.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AMERIKA">
+    
+    <naam>Costa Rica</naam>
+    
+    <begindatum>2019-09-20</begindatum>
+    
+    <aantal_dagen>15</aantal_dagen>
+    
+    <kostprijs>2654.34</kostprijs>
+    
+    <taal>Spaans</taal>
+    
+    <munteenheid>Costa Ricaanse Colon</munteenheid>
+    
+    <gemiddelde_temperatuur>27.0</gemiddelde_temperatuur>
+    
+    <zakgeld>300.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="EUROPA">
+    
+    <naam>Ijsland</naam>
+    
+    <begindatum>2019-07-21</begindatum>
+    
+    <aantal_dagen>15</aantal_dagen>
+    
+    <kostprijs>3256.98</kostprijs>
+    
+    <taal>Ijslands</taal>
+    
+    <munteenheid>Kroon</munteenheid>
+    
+    <gemiddelde_temperatuur>14.0</gemiddelde_temperatuur>
+    
+    <zakgeld>450.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AZIE">
+    
+    <naam>Indonesië</naam>
+    
+    <begindatum>2019-07-05</begindatum>
+    
+    <aantal_dagen>21</aantal_dagen>
+    
+    <kostprijs>2456.78</kostprijs>
+    
+    <taal>Indonesisch</taal>
+    
+    <munteenheid>Indonesische Rupiah</munteenheid>
+    
+    <gemiddelde_temperatuur>33.0</gemiddelde_temperatuur>
+    
+    <zakgeld>300.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AZIE">
+    
+    <naam>Jordanië</naam>
+    
+    <begindatum>2019-09-11</begindatum>
+    
+    <aantal_dagen>8</aantal_dagen>
+    
+    <kostprijs>1235.76</kostprijs>
+    
+    <taal>Arabisch</taal>
+    
+    <munteenheid>Jordaanse Dinar</munteenheid>
+    
+    <gemiddelde_temperatuur>29.0</gemiddelde_temperatuur>
+    
+    <zakgeld>150.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="EUROPA">
+    
+    <naam>Kroatië</naam>
+    
+    <begindatum>2020-06-17</begindatum>
+    
+    <aantal_dagen>10</aantal_dagen>
+    
+    <kostprijs>1510.1</kostprijs>
+    
+    <taal>Kroatisch</taal>
+    
+    <munteenheid>Kuna</munteenheid>
+    
+    <gemiddelde_temperatuur>15.0</gemiddelde_temperatuur>
+    
+    <zakgeld>250.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AFRIKA">
+    
+    <naam>Namibië</naam>
+    
+    <begindatum>2020-02-15</begindatum>
+    
+    <aantal_dagen>18</aantal_dagen>
+    
+    <kostprijs>2876.45</kostprijs>
+    
+    <taal>Engels</taal>
+    
+    <munteenheid>Namibische Dollar</munteenheid>
+    
+    <gemiddelde_temperatuur>29.0</gemiddelde_temperatuur>
+    
+    <zakgeld>350.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="EUROPA">
+    
+    <naam>Schotland</naam>
+    
+    <begindatum>2020-05-25</begindatum>
+    
+    <aantal_dagen>10</aantal_dagen>
+    
+    <kostprijs>1365.23</kostprijs>
+    
+    <taal>Engels</taal>
+    
+    <munteenheid>Pond Sterling</munteenheid>
+    
+    <gemiddelde_temperatuur>14.0</gemiddelde_temperatuur>
+    
+    <zakgeld>175.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="EUROPA">
+    
+    <naam>Spanje</naam>
+    
+    <begindatum>2020-04-15</begindatum>
+    
+    <aantal_dagen>8</aantal_dagen>
+    
+    <kostprijs>658.76</kostprijs>
+    
+    <taal>Spaans</taal>
+    
+    <munteenheid>Euro</munteenheid>
+    
+    <gemiddelde_temperatuur>20.0</gemiddelde_temperatuur>
+    
+    <zakgeld>150.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AZIE">
+    
+    <naam>Vietnam</naam>
+    
+    <begindatum>2020-03-15</begindatum>
+    
+    <aantal_dagen>16</aantal_dagen>
+    
+    <kostprijs>1876.87</kostprijs>
+    
+    <taal>Vietnamees</taal>
+    
+    <munteenheid>Dong</munteenheid>
+    
+    <gemiddelde_temperatuur>23.0</gemiddelde_temperatuur>
+    
+    <zakgeld>250.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="AFRIKA">
+    
+    <naam>Zuid-Afrika</naam>
+    
+    <begindatum>2019-11-22</begindatum>
+    
+    <aantal_dagen>22</aantal_dagen>
+    
+    <kostprijs>2987.78</kostprijs>
+    
+    <taal>Zuid-Afrikaans en Engels</taal>
+    
+    <munteenheid>Rand</munteenheid>
+    
+    <gemiddelde_temperatuur>26.0</gemiddelde_temperatuur>
+    
+    <zakgeld>300.0</zakgeld>
+  </reis>
+  
+  <reis werelddeel="EUROPA">
+    
+    <naam>Zweden</naam>
+    
+    <begindatum>2019-08-15</begindatum>
+    
+    <aantal_dagen>10</aantal_dagen>
+    
+    <kostprijs>1567.34</kostprijs>
+    
+    <taal>Zweeds</taal>
+    
+    <munteenheid>Zweedse Kroon</munteenheid>
+    
+    <gemiddelde_temperatuur>21.0</gemiddelde_temperatuur>
+    
+    <zakgeld>200.0</zakgeld>
+  </reis>
+</Reizen>

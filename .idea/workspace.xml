@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Module '2_generics'" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05cd6ed9-655f-45b8-af38-cff80e0ea3ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/reisproject$TestSuite.ic" NAME="TestSuite Coverage Results" MODIFIED="1554834613562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>be.kdg.reisproject.model.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="PUBLIC: database" type="189accc2:HsqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="PUBLIC: database" type="189accc2:HsqlImplModel$Database" />
+        <item name="PUBLIC: schema" type="302dc3d9:HsqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="PUBLIC: database" type="189accc2:HsqlImplModel$Database" />
+        <item name="PUBLIC: schema" type="302dc3d9:HsqlImplModel$Schema" />
+        <item name="REISTABLE: table" type="aa3f54b6:HsqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1225736436">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="6" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0" value="2" />
+          <entry key="REISTABLE" value="3" />
+          <entry key="class" value="5" />
+          <entry key="html" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="308" />
+          <entry key="json" value="3" />
+          <entry key="lck" value="1" />
+          <entry key="log" value="11" />
+          <entry key="properties" value="7" />
+          <entry key="reisproject" value="1" />
+          <entry key="script" value="2" />
+          <entry key="ser" value="5" />
+          <entry key="sql" value="13" />
+          <entry key="xml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="Database Element" value="3" />
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="308" />
+          <entry key="JSON" value="3" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Properties" value="7" />
+          <entry key="Scratch" value="13" />
+          <entry key="XML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="40901" />
+          <entry key="properties" value="164" />
+          <entry key="reisproject" value="8" />
+          <entry key="sql" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="40899" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Properties" value="164" />
+          <entry key="SQL" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/Demo_9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenJaxbParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/model/Reizen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/6_patterns_B/src/be/kdg/reisproject/patterns/UnmodifiableReizen.java" />
+        <option value="$PROJECT_DIR$/5_patterns_A/src/be/kdg/reisproject/model/ReisFactory.java" />
+        <option value="$PROJECT_DIR$/5_patterns_A/src/be/kdg/reisproject/model/Reizen.java" />
+        <option value="$PROJECT_DIR$/5_patterns_A/src/be/kdg/reisproject/patterns/ObservableReizen.java" />
+        <option value="$PROJECT_DIR$/5_patterns_A/src/be/kdg/reisproject/patterns/ReizenObserver.java" />
+        <option value="$PROJECT_DIR$/4_logging/src/be/kdg/reisproject/model/Reizen.java" />
+        <option value="$PROJECT_DIR$/3_reflection/src/be/kdg/reisproject/model/Land.java" />
+        <option value="$PROJECT_DIR$/3_reflection/src/be/kdg/reisproject/model/Reizen.java" />
+        <option value="$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/Demo_2.java" />
+        <option value="$PROJECT_DIR$/1_herhaling/src/be/kdg/reisproject/model/Reizen.java" />
+        <option value="$PROJECT_DIR$/1_herhaling/src/be/kdg/reisproject/Demo_1.java" />
+        <option value="$PROJECT_DIR$/4_logging/src/be/kdg/reisproject/Data/Data.java" />
+        <option value="$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/Data/Data.java" />
+        <option value="$PROJECT_DIR$/1_herhaling/src/be/kdg/reisproject/Data/Data.java" />
+        <option value="$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/Data/Data.java" />
+        <option value="$PROJECT_DIR$/6_patterns_B/src/be/kdg/reisproject/Demo_6.java" />
+        <option value="$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/Demo_7.java" />
+        <option value="$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/6_patterns_B/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/5_patterns_A/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/4_logging/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/3_reflection/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/1_herhaling/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/model/ReisDao.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/model/Reizen.java" />
+        <option value="$PROJECT_DIR$/1_herhaling/src/be/kdg/reisproject/data/Data.java" />
+        <option value="$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/data/Data.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/persist/ReisDbDao.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/Demo_8_JDBC.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/Demo_8.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/data/Data.java" />
+        <option value="$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/data/Data.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/LocalDateAdapter.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenGsonParser.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenDomParser.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenStaxParser.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/model/Reizen.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/Demo_9.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/threading/ReisRunnable.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/data/Data.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/model/Reis.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/model/ReisFactory.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/threading/ReisAttacker.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/threading/ReisCallable.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/Demo_11.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/Demo_10.java" />
+        <option value="$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/Demo_12.java" />
+        <option value="$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenJaxbParser.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="975" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="9_xml_json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="9_xml_json" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="10_threads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="10_threads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="10_threads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="10_threads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="10_threads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="10_threads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reisproject" type="462c0819:PsiDirectoryNode" />
+              <item name="threading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reisproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557575648300" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Periode 4/Voorbeelden_Opdrachten_10_Threads/Voorbeelden_Opdrachten_10_Threads" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="be.kdg.reisproject.persist" />
+      <recent name="be.kdg.reisproject.reflection" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="be.kdg.reisproject.model" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="be.kdg.reisproject.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="be.kdg.reisproject.model" />
+      <recent name="be.kdg.reisproject.data" />
+      <recent name="be.kdg.reisproject.Data" />
+      <recent name="be.kdg.reisproject.patterns" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\10_threads\src\be\kdg\reisproject" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\9_xml_json\src\be\kdg\reisproject" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\8_persistentie\src\be\kdg\reisproject" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\7_streams" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\6_patterns_B\src\be\kdg\reisproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\4_logging\resources" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\2_generics\src\be\kdg" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\2_generics\src\be" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\2_generics\src" />
+      <recent name="C:\Users\lotte\Desktop\Java Programming\reisproject\2_generics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo_9">
+    <configuration name="Demo_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.reisproject.Demo_10" />
+      <module name="10_threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.reisproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.reisproject.Demo_11" />
+      <module name="10_threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.reisproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.reisproject.Demo_12" />
+      <module name="10_threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.reisproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.reisproject.Demo_8" />
+      <module name="8_persistentie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.reisproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.reisproject.Demo_9" />
+      <module name="9_xml_json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.reisproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo_8" />
+      <item itemvalue="Application.Demo_9" />
+      <item itemvalue="Application.Demo_10" />
+      <item itemvalue="Application.Demo_11" />
+      <item itemvalue="Application.Demo_12" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo_9" />
+        <item itemvalue="Application.Demo_12" />
+        <item itemvalue="Application.Demo_11" />
+        <item itemvalue="Application.Demo_10" />
+        <item itemvalue="Application.Demo_8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05cd6ed9-655f-45b8-af38-cff80e0ea3ea" name="Default Changelist" comment="" />
+      <created>1554117261550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554117261550</updated>
+      <workItem from="1554117268184" duration="22873000" />
+      <workItem from="1554151472798" duration="3067000" />
+      <workItem from="1554218982852" duration="16928000" />
+      <workItem from="1554321330723" duration="657000" />
+      <workItem from="1554473329248" duration="3729000" />
+      <workItem from="1554477355187" duration="358000" />
+      <workItem from="1554588451961" duration="1339000" />
+      <workItem from="1554831291393" duration="20266000" />
+      <workItem from="1554901514476" duration="3174000" />
+      <workItem from="1554905321969" duration="279000" />
+      <workItem from="1554906233627" duration="304000" />
+      <workItem from="1555202476228" duration="502000" />
+      <workItem from="1555355039436" duration="6389000" />
+      <workItem from="1555375822793" duration="903000" />
+      <workItem from="1555511290268" duration="10588000" />
+      <workItem from="1556542829783" duration="331000" />
+      <workItem from="1556726268145" duration="16075000" />
+      <workItem from="1556742994198" duration="7000" />
+      <workItem from="1556821445839" duration="3891000" />
+      <workItem from="1556829941429" duration="100000" />
+      <workItem from="1557058923511" duration="5100000" />
+      <workItem from="1557087912955" duration="59000" />
+      <workItem from="1557088008457" duration="88000" />
+      <workItem from="1557088195224" duration="1794000" />
+      <workItem from="1557169175674" duration="390000" />
+      <workItem from="1557169718979" duration="6738000" />
+      <workItem from="1557255195262" duration="3610000" />
+      <workItem from="1557258886165" duration="13000" />
+      <workItem from="1557259072210" duration="184000" />
+      <workItem from="1557259297491" duration="191000" />
+      <workItem from="1557310880551" duration="21138000" />
+      <workItem from="1557336782957" duration="40000" />
+      <workItem from="1557336869951" duration="8000" />
+      <workItem from="1557423403475" duration="3696000" />
+      <workItem from="1557500242986" duration="8029000" />
+      <workItem from="1557574912606" duration="889000" />
+      <workItem from="1558171123914" duration="248000" />
+      <workItem from="1558445215163" duration="400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestReis - 2019.04.09 at 20h 10m 18s.xml">
+      <configuration name="TestReis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReis - 2019.04.09 at 20h 15m 56s.xml">
+      <configuration name="TestReis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReizen - 2019.04.09 at 20h 25m 12s.xml">
+      <configuration name="TestReizen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuite - 2019.04.09 at 20h 29m 59s.xml">
+      <configuration name="TestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuite - 2019.04.09 at 20h 30m 19s.xml">
+      <configuration name="TestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="164375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22960933" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2923077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289941" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.28402367" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3289941" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32899246" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32899246" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32967785" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2083619" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2923077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289941" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.28402367" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3289941" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32899246" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32899246" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32967785" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/Demo_9.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_logging/src/be/kdg/reisproject/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8836076f-116e-41da-b7ba-a080c259a606/database/PUBLIC/schema/PUBLIC/table/REISTABLE" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8836076f-116e-41da-b7ba-a080c259a606/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/Demo_8_JDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/model/Reis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/model/Reizen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/model/ReisDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/db/reistable.log" />
+    <entry file="file://$PROJECT_DIR$/8_persistentie/db/myDatabase/reistable.log" />
+    <entry file="das://9560e1a1-cde4-41b9-9fe9-cfd1e22b1686/database/PUBLIC/schema/PUBLIC/table/REISTABLE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9560e1a1-cde4-41b9-9fe9-cfd1e22b1686/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/model/Werelddeel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/Demo_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staxReizen.xml" />
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/files/staxReizen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/LocalDateAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_herhaling/src/be/kdg/reisproject/model/Reizen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="62" column="74" lean-forward="true" selection-start-line="62" selection-start-column="74" selection-end-line="62" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/runtime/unmarshaller/UnmarshallingContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="693" selection-start-line="693" selection-end-line="693" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/runtime/unmarshaller/Loader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/9_xml_json.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/files/dictators.json" />
+    <entry file="file://$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/model/Reis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="310" column="125" selection-start-line="310" selection-start-column="125" selection-end-line="310" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/generics/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1561">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_generics/src/be/kdg/reisproject/generics/FIFOQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/files/reizen.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenGsonParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenDomParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenStaxParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/model/Werelddeel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/model/Reizen.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/util/Functies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_streams/src/be/kdg/reisproject/Demo_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="33" column="98" lean-forward="true" selection-start-line="33" selection-start-column="98" selection-end-line="33" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/model/Reis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_persistentie/src/be/kdg/reisproject/persist/ReisDbDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="274" column="61" selection-start-line="274" selection-start-column="61" selection-end-line="274" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/threading/ReisRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/Demo_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="54" column="148" selection-start-line="54" selection-start-column="148" selection-end-line="54" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/Demo_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/threading/ReisCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/Demo_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/model/Reis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/threading/ReisAttacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/files/jaxbReizen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/Demo_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/model/Reizen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_threads/src/be/kdg/reisproject/model/ReisFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="32" column="62" lean-forward="true" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_xml_json/src/be/kdg/reisproject/parsing/ReizenJaxbParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1_herhaling</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

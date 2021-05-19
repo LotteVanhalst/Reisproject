@@ -1,0 +1,456 @@
+{
+  "beschikbareReizen": [
+    {
+      "naam": "Argentinië",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 7,
+        "day": 21
+      },
+      "aantalDagen": 22,
+      "kostprijs": 3450.49,
+      "taal": "Spaans",
+      "munteenheid": "Peso",
+      "gemiddeldeTemp": 15.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Australië",
+      "werelddeel": "OCEANIE",
+      "begindatum": {
+        "year": 2019,
+        "month": 10,
+        "day": 10
+      },
+      "aantalDagen": 28,
+      "kostprijs": 5678.99,
+      "taal": "Engels",
+      "munteenheid": "Australische Dollar",
+      "gemiddeldeTemp": 22.0,
+      "zakgeld": 650.0
+    },
+    {
+      "naam": "Bolivië",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 11,
+        "day": 15
+      },
+      "aantalDagen": 18,
+      "kostprijs": 2199.59,
+      "taal": "Spaans",
+      "munteenheid": "Boliviano ",
+      "gemiddeldeTemp": 16.0,
+      "zakgeld": 200.0
+    },
+    {
+      "naam": "Canada",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2020,
+        "month": 6,
+        "day": 10
+      },
+      "aantalDagen": 25,
+      "kostprijs": 4367.87,
+      "taal": "Engels en Frans",
+      "munteenheid": "Canadese Dollar",
+      "gemiddeldeTemp": 24.0,
+      "zakgeld": 500.0
+    },
+    {
+      "naam": "Costa Rica",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 9,
+        "day": 20
+      },
+      "aantalDagen": 15,
+      "kostprijs": 2654.34,
+      "taal": "Spaans",
+      "munteenheid": "Costa Ricaanse Colon",
+      "gemiddeldeTemp": 27.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Ijsland",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2019,
+        "month": 7,
+        "day": 21
+      },
+      "aantalDagen": 15,
+      "kostprijs": 3256.98,
+      "taal": "Ijslands",
+      "munteenheid": "Kroon",
+      "gemiddeldeTemp": 14.0,
+      "zakgeld": 450.0
+    },
+    {
+      "naam": "Indonesië",
+      "werelddeel": "AZIE",
+      "begindatum": {
+        "year": 2019,
+        "month": 7,
+        "day": 5
+      },
+      "aantalDagen": 21,
+      "kostprijs": 2456.78,
+      "taal": "Indonesisch",
+      "munteenheid": "Indonesische Rupiah",
+      "gemiddeldeTemp": 33.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Jordanië",
+      "werelddeel": "AZIE",
+      "begindatum": {
+        "year": 2019,
+        "month": 9,
+        "day": 11
+      },
+      "aantalDagen": 8,
+      "kostprijs": 1235.76,
+      "taal": "Arabisch",
+      "munteenheid": "Jordaanse Dinar",
+      "gemiddeldeTemp": 29.0,
+      "zakgeld": 150.0
+    },
+    {
+      "naam": "Kroatië",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2020,
+        "month": 6,
+        "day": 17
+      },
+      "aantalDagen": 10,
+      "kostprijs": 1510.1,
+      "taal": "Kroatisch",
+      "munteenheid": "Kuna",
+      "gemiddeldeTemp": 15.0,
+      "zakgeld": 250.0
+    },
+    {
+      "naam": "Namibië",
+      "werelddeel": "AFRIKA",
+      "begindatum": {
+        "year": 2020,
+        "month": 2,
+        "day": 15
+      },
+      "aantalDagen": 18,
+      "kostprijs": 2876.45,
+      "taal": "Engels",
+      "munteenheid": "Namibische Dollar",
+      "gemiddeldeTemp": 29.0,
+      "zakgeld": 350.0
+    },
+    {
+      "naam": "Schotland",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2020,
+        "month": 5,
+        "day": 25
+      },
+      "aantalDagen": 10,
+      "kostprijs": 1365.23,
+      "taal": "Engels",
+      "munteenheid": "Pond Sterling",
+      "gemiddeldeTemp": 14.0,
+      "zakgeld": 175.0
+    },
+    {
+      "naam": "Spanje",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2020,
+        "month": 4,
+        "day": 15
+      },
+      "aantalDagen": 8,
+      "kostprijs": 658.76,
+      "taal": "Spaans",
+      "munteenheid": "Euro",
+      "gemiddeldeTemp": 20.0,
+      "zakgeld": 150.0
+    },
+    {
+      "naam": "Vietnam",
+      "werelddeel": "AZIE",
+      "begindatum": {
+        "year": 2020,
+        "month": 3,
+        "day": 15
+      },
+      "aantalDagen": 16,
+      "kostprijs": 1876.87,
+      "taal": "Vietnamees",
+      "munteenheid": "Dong",
+      "gemiddeldeTemp": 23.0,
+      "zakgeld": 250.0
+    },
+    {
+      "naam": "Zuid-Afrika",
+      "werelddeel": "AFRIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 11,
+        "day": 22
+      },
+      "aantalDagen": 22,
+      "kostprijs": 2987.78,
+      "taal": "Zuid-Afrikaans en Engels",
+      "munteenheid": "Rand",
+      "gemiddeldeTemp": 26.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Zweden",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2019,
+        "month": 8,
+        "day": 15
+      },
+      "aantalDagen": 10,
+      "kostprijs": 1567.34,
+      "taal": "Zweeds",
+      "munteenheid": "Zweedse Kroon",
+      "gemiddeldeTemp": 21.0,
+      "zakgeld": 200.0
+    }
+  ],
+  "reisList": [
+    {
+      "naam": "Argentinië",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 7,
+        "day": 21
+      },
+      "aantalDagen": 22,
+      "kostprijs": 3450.49,
+      "taal": "Spaans",
+      "munteenheid": "Peso",
+      "gemiddeldeTemp": 15.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Australië",
+      "werelddeel": "OCEANIE",
+      "begindatum": {
+        "year": 2019,
+        "month": 10,
+        "day": 10
+      },
+      "aantalDagen": 28,
+      "kostprijs": 5678.99,
+      "taal": "Engels",
+      "munteenheid": "Australische Dollar",
+      "gemiddeldeTemp": 22.0,
+      "zakgeld": 650.0
+    },
+    {
+      "naam": "Bolivië",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 11,
+        "day": 15
+      },
+      "aantalDagen": 18,
+      "kostprijs": 2199.59,
+      "taal": "Spaans",
+      "munteenheid": "Boliviano ",
+      "gemiddeldeTemp": 16.0,
+      "zakgeld": 200.0
+    },
+    {
+      "naam": "Canada",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2020,
+        "month": 6,
+        "day": 10
+      },
+      "aantalDagen": 25,
+      "kostprijs": 4367.87,
+      "taal": "Engels en Frans",
+      "munteenheid": "Canadese Dollar",
+      "gemiddeldeTemp": 24.0,
+      "zakgeld": 500.0
+    },
+    {
+      "naam": "Costa Rica",
+      "werelddeel": "AMERIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 9,
+        "day": 20
+      },
+      "aantalDagen": 15,
+      "kostprijs": 2654.34,
+      "taal": "Spaans",
+      "munteenheid": "Costa Ricaanse Colon",
+      "gemiddeldeTemp": 27.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Ijsland",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2019,
+        "month": 7,
+        "day": 21
+      },
+      "aantalDagen": 15,
+      "kostprijs": 3256.98,
+      "taal": "Ijslands",
+      "munteenheid": "Kroon",
+      "gemiddeldeTemp": 14.0,
+      "zakgeld": 450.0
+    },
+    {
+      "naam": "Indonesië",
+      "werelddeel": "AZIE",
+      "begindatum": {
+        "year": 2019,
+        "month": 7,
+        "day": 5
+      },
+      "aantalDagen": 21,
+      "kostprijs": 2456.78,
+      "taal": "Indonesisch",
+      "munteenheid": "Indonesische Rupiah",
+      "gemiddeldeTemp": 33.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Jordanië",
+      "werelddeel": "AZIE",
+      "begindatum": {
+        "year": 2019,
+        "month": 9,
+        "day": 11
+      },
+      "aantalDagen": 8,
+      "kostprijs": 1235.76,
+      "taal": "Arabisch",
+      "munteenheid": "Jordaanse Dinar",
+      "gemiddeldeTemp": 29.0,
+      "zakgeld": 150.0
+    },
+    {
+      "naam": "Kroatië",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2020,
+        "month": 6,
+        "day": 17
+      },
+      "aantalDagen": 10,
+      "kostprijs": 1510.1,
+      "taal": "Kroatisch",
+      "munteenheid": "Kuna",
+      "gemiddeldeTemp": 15.0,
+      "zakgeld": 250.0
+    },
+    {
+      "naam": "Namibië",
+      "werelddeel": "AFRIKA",
+      "begindatum": {
+        "year": 2020,
+        "month": 2,
+        "day": 15
+      },
+      "aantalDagen": 18,
+      "kostprijs": 2876.45,
+      "taal": "Engels",
+      "munteenheid": "Namibische Dollar",
+      "gemiddeldeTemp": 29.0,
+      "zakgeld": 350.0
+    },
+    {
+      "naam": "Schotland",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2020,
+        "month": 5,
+        "day": 25
+      },
+      "aantalDagen": 10,
+      "kostprijs": 1365.23,
+      "taal": "Engels",
+      "munteenheid": "Pond Sterling",
+      "gemiddeldeTemp": 14.0,
+      "zakgeld": 175.0
+    },
+    {
+      "naam": "Spanje",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2020,
+        "month": 4,
+        "day": 15
+      },
+      "aantalDagen": 8,
+      "kostprijs": 658.76,
+      "taal": "Spaans",
+      "munteenheid": "Euro",
+      "gemiddeldeTemp": 20.0,
+      "zakgeld": 150.0
+    },
+    {
+      "naam": "Vietnam",
+      "werelddeel": "AZIE",
+      "begindatum": {
+        "year": 2020,
+        "month": 3,
+        "day": 15
+      },
+      "aantalDagen": 16,
+      "kostprijs": 1876.87,
+      "taal": "Vietnamees",
+      "munteenheid": "Dong",
+      "gemiddeldeTemp": 23.0,
+      "zakgeld": 250.0
+    },
+    {
+      "naam": "Zuid-Afrika",
+      "werelddeel": "AFRIKA",
+      "begindatum": {
+        "year": 2019,
+        "month": 11,
+        "day": 22
+      },
+      "aantalDagen": 22,
+      "kostprijs": 2987.78,
+      "taal": "Zuid-Afrikaans en Engels",
+      "munteenheid": "Rand",
+      "gemiddeldeTemp": 26.0,
+      "zakgeld": 300.0
+    },
+    {
+      "naam": "Zweden",
+      "werelddeel": "EUROPA",
+      "begindatum": {
+        "year": 2019,
+        "month": 8,
+        "day": 15
+      },
+      "aantalDagen": 10,
+      "kostprijs": 1567.34,
+      "taal": "Zweeds",
+      "munteenheid": "Zweedse Kroon",
+      "gemiddeldeTemp": 21.0,
+      "zakgeld": 200.0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-16T03:04:51</date>
+  <millis>1555376691931</millis>
+  <sequence>0</sequence>
+  <logger>be.kdg.model.Reis</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.reisproject.model.Reis</class>
+  <method>setBegindatum</method>
+  <thread>1</thread>
+  <message>De datum 01/01/2019 ligt in het verleden. Gelieve een datum in te vullen voor de reis naar Argentinië die later is dan vandaag.</message>
+</record>
+<record>
+  <date>2019-04-16T03:04:51</date>
+  <millis>1555376691992</millis>
+  <sequence>1</sequence>
+  <logger>be.kdg.model.Reis</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.reisproject.model.Reis</class>
+  <method>setAantalDagen</method>
+  <thread>1</thread>
+  <message>Het aantal dagen 35 is niet correct. Gelieve het juiste aantal dagen in te vullen voor de reis naar Bolivië.</message>
+</record>
+<record>
+  <date>2019-04-16T03:04:51</date>
+  <millis>1555376691997</millis>
+  <sequence>2</sequence>
+  <logger>be.kdg.model.Reis</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.reisproject.model.Reis</class>
+  <method>setKostprijs</method>
+  <thread>1</thread>
+  <message>De kostprijs 2199.59 euro is niet correct. Gelieve de juiste kostprijs in te vullen voor de reis naar Bolivië.</message>
+</record>
+<record>
+  <date>2019-04-16T03:04:51</date>
+  <millis>1555376691998</millis>
+  <sequence>3</sequence>
+  <logger>be.kdg.model.Reis</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.reisproject.model.Reis</class>
+  <method>setKostprijs</method>
+  <thread>1</thread>
+  <message>De kostprijs 365.45 euro is niet correct. Gelieve de juiste kostprijs in te vullen voor de reis naar Kroatië.</message>
+</record>
+<record>
+  <date>2019-04-16T03:04:51</date>
+  <millis>1555376691999</millis>
+  <sequence>4</sequence>
+  <logger>be.kdg.model.Reis</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.reisproject.model.Reis</class>
+  <method>setGemiddeldeTemp</method>
+  <thread>1</thread>
+  <message>De gemiddelde temperatuur 76.0 is niet correct. Gelieve de juiste gemiddelde temperatuur in te vullen voor de reis naar Indonesië.</message>
+</record>
+</log>
